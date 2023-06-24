@@ -1,0 +1,19 @@
+ list_of_questions is below
+
+1)"What is the subject matter of the dispute? Only select from the following options only:Consumer,Commercial,Securities,Labour,Construction,Maritime,Bankruptcy,other. Answer in one word only. Also point out the paragraph you are referring to."
+
+2)"Has an arbitration proceeding being commenced? Answer from the following options only: Yes,No or Can't determine. Answer in one word only. Also point out the paragraph you are referring to."
+
+3)"Did the arbitrators bifurcate the proceedings.Answer from the following options only: Yes-Jurisdiction and Merits,Yes- Liability and Quantum,Yes-other,No,Can't determine.Answer in one word only. Also point out the paragraph you are referring to."
+
+4)"Were litigation costs awarded?Answer from the following options only: Yes,No,Can't determine.Answer in one word only. Also point out the paragraph you are referring to."
+
+5)"Was there an arbitration institution involved?Answer from the following options only: Yes,No,Can't determine.Answer in one word only. Also point out the paragraph you are referring to."
+
+6)"If the arbitration was an ad hoc proceeding, which procedural rules applied?Answer from the following options only: Can't Determine,UNCITRAL Arbitration Rules,Regime agreeed by the parties,Other.Answer in one word only. Also point out the paragraph you are referring to."
+
+7)"Did the court make a determination pertaining to the validity of the arbitration agreement? Answer from the following options only: Yes,No,Can't determine.Answer in one word only. Also point out the paragraph you are referring to."
+
+8)"Was there a non-signatory to the arbitration agreement? Answer from the following options only: Yes ,No,Can't determine.Answer in one word only. Also point out the paragraph you are referring to."
+
+9)"What is the Type of Proceeding?Answer from the following options only: Appointment of Arbitrators,Challenge of Arbitrators,Confirmation of Arbitral Award ,Recognition and,Enforcement of Arbitral Award ,Challenge of Arbitral Award ,Interim Measures ,Compelling Arbitration.Answer in one word only. Also point out the paragraph you are referring to."
